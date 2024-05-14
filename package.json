@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "health-employee-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pedro Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^22.8.1"
+  }
+}
